@@ -61,4 +61,7 @@
 		- 访问 `<上图所示的地址>#/page/logseq dev theme` 比如这个教程 [所示的例子](https://kenshin.wang/knowledge-garden/#/page/logseq%20dev%20theme) 会得到下图所示的内容，则说明配置成功。
 		  
 		  ![image-20220204145601034](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/typora/20220204_1643957761.png)
-	-
+	- # 自动化
+		- #+BEGIN_TIP
+		  当 `page` 文件夹有改动时，自动 Push Github
+		  #+END_TIP
