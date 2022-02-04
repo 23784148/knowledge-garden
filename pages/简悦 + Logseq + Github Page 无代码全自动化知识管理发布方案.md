@@ -65,3 +65,6 @@
 		- #+BEGIN_TIP
 		  当 `page` 文件夹有改动时，自动 Push Github
 		  #+END_TIP
+		- ## Hazel
+			- 自动化方案选择是 Hazel 这个监控文件夹变化而进行一系列自动化操作的 Mac App。如果你是 Windows 用户可以使用 [Dropit](http://www.dropitproject.com/)。
+				-
