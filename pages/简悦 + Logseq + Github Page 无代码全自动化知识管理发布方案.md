@@ -88,5 +88,6 @@
 	  因简悦比较灵活，所以可以有多种方式实现，这里仅给出官方标准方案。
 	  #+END_TIP
 	- ## 标准方案
-	  		> 使用简悦的知识库功能，如何配置 [请看这里](https://kb.simpread.pro/#/page/建立知识库)，当设置完后，在标注的自动化上增加导出 Markdown 的功能。
-		-
+		- 使用简悦的知识库功能，如何配置 [请看这里](https://kb.simpread.pro/#/page/建立知识库)，当设置完后，在标注的自动化上增加 **导出 Markdown** 的功能。
+			- ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-pxe.png){:height 368, :width 652}
+			- 使用此模板
