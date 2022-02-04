@@ -90,4 +90,5 @@
 	- ## 标准方案
 		- 使用简悦的知识库功能，如何配置 [请看这里](https://kb.simpread.pro/#/page/建立知识库)，当设置完后，在标注的自动化上增加 **导出 Markdown** 的功能。
 			- ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-pxe.png){:height 368, :width 652}
-			- 使用此模板
+			- 使用简悦官方适配的 Logseq [Markdown 模板](https://github.com/Kenshin/simpread/discussions/2153#discussioncomment-2109959)。
+				- 将模板代码粘贴到选项页 → 服务 → 定制化
