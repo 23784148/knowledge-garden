@@ -96,19 +96,12 @@
 			- 设置 Hazle 监控 `output` 变化，当出现 `.md` 文件时，自动转移（或复制）到 `pages` 文件夹下面。
 			  id:: 61fd073f-a4ec-41e8-af00-e76a6bc62000
 			  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-qbl.png){:height 177, :width 621}
-	- ## 简易方案
-	  #+BEGIN_TIP
-	  此方案仅配置 **增强导出** 和 **稍后读/标注的自动化**，适合轻量级使用简悦的用户。
-	  #+END_TIP
-		- 配置 [增强导出](https://kb.simpread.pro/#/page/增强导出)
-		   #+BEGIN_TIP
-		   如果不使用知识库的话，可以将增强导出的文件夹目录设置为 `pages` 文件夹。
-		   #+END_TIP
-		- 配置 稍后读的自动化
-		  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-qgb.png)
-		- 配置 标注的自动化，与标注方案时 ((61fd073f-383c-482b-a04b-12b9461463dd)) 一致。
-		- ((61fd073f-a4ec-41e8-af00-e76a6bc62000))
+		- ## 简易方案
 		  #+BEGIN_TIP
-		  引申：如果不使用同步助手的话也可以实现，即：
-		  将 Hazel 监控 Chrome 下载文件夹，当遇到 `xxxx@annote.md` 文件时，自动转移到 `pages` 文件夹即可。
+		  此方案仅配置 **增强导出** 和 **标注的自动化**。
 		  #+END_TIP
+			- 配置 [增强导出](https://kb.simpread.pro/#/page/增强导出)
+			- 配置 稍后读的自动化
+			- ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-qgb.png)
+			- 配置 标注的自动化，与标注方案时 ((61fd073f-383c-482b-a04b-12b9461463dd)) 一致。
+			- ((61fd073f-a4ec-41e8-af00-e76a6bc62000))
