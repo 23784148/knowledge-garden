@@ -71,11 +71,10 @@
 				- 简单的说明
 					- 可以监控 `page` 文件夹，也可以监控其它文件夹 e.g. `journals` `logseq` `assets` 甚至于监控根目录的 `README.md` 当此文件改动时再提交。
 					- 文件改动一分钟后再执行：为了降低执行的频率，这里的数字可以改为任意值。
-					- Shell 代码很简单，就是 Push 到 Github
-					  ```
+					- Shell 代码很简单，就是提交
+					- ```
 					  cd /<your path>/knowledge-garden
 					  git add .
 					  git commit -m "auto save:Update some logseq pages."
 					  git push origin main
 					  ```
-			- #
