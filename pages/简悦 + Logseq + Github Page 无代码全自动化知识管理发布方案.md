@@ -158,6 +158,5 @@
 		  id:: 61fdf259-3039-4977-8772-fd84e9207f76
 - # 导出为 Markdown
   id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
-	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown
+	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown，因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
 	  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
-	- 但因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
