@@ -156,9 +156,10 @@
 		- Logseq 因为是所见即所得的编辑方案，稳定性和切换编辑/预览效果没有 Typora 好。
 		- Logseq 并不是属于标准的 Markdown 结构（细节 [看这里](https://www.markdownguide.org/tools/logseq/)），所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq [导出功能](((61fdf55a-0377-4d51-8d83-d98ef4f785fa))) 改善此问题）
 		  id:: 61fdf259-3039-4977-8772-fd84e9207f76
-- # 导出为 Markdown
-  id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
-	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown，因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
-	  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
-- # 更多例子
-	- {{embed ((61fe1b3a-8356-4f20-b8f1-f5f4ed21ee7b))}}
+- # 附录
+	- ## 导出为 Markdown
+	  id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
+		- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown，因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
+		  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
+	- ## 更多例子
+		- {{embed ((61fe1b3a-8356-4f20-b8f1-f5f4ed21ee7b))}}
