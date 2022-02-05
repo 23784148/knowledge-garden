@@ -139,12 +139,14 @@
 		- 除 Github Page 外，其余均为 Local first 产品，此流程可保证最大稳定性。
 		- 发布的站点支持手机端访问。
 		- Logseq 可支持粘贴本地图片（到 `assets` 文件夹）配合 Hazel 自动提交功能，相当于拥有了自己的「图床方案」。
+		- Logseq 支持 outliner 层级结构，类似 Workflowy / Roam Research 的效果，每层都可以延伸为一个「新的 Page」，非常适合「知识的生长」。
 	- ## 缺点
 		- 如果不是 Mac 用户或无法使用 Hazel 的话，效果不会那么完美。
 		- Logseq 因为是所见即所得的编辑方案，稳定性和切换编辑/预览效果没有 Typora 好。
-		- Logseq 并不是属于标准的 Markdown 结构（细节 [看这里](https://www.markdownguide.org/tools/logseq/)），所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq 导出功能改善此问题）
+		- Logseq 并不是属于标准的 Markdown 结构（细节 [看这里](https://www.markdownguide.org/tools/logseq/)），所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq [导出功能](((61fdf55a-0377-4d51-8d83-d98ef4f785fa))) 改善此问题）
 		  id:: 61fdf259-3039-4977-8772-fd84e9207f76
-	- # 导出为 Markdown
-		- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown
-		  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
-		- 但因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
+- # 导出为 Markdown
+  id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
+	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown
+	  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
+	- 但因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
