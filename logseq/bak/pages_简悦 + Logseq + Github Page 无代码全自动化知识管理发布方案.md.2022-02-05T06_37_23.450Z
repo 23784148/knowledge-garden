@@ -24,10 +24,6 @@
 		  id:: 61fdf55a-2cf2-4e79-b3f4-f5b14d86611e
 		  id:: 61fdf259-0e0d-4c14-9364-d567abae56a6
 		  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-# 为什么是 Logseq
-	- Logseq 支持 outliner 层级结构，类似 Workflowy / Roam Research 的效果，每层都可以延伸为一个「新的 Page」，非常适合「知识的生长」。
-	- 虽然 Obsidian Publish 也提供发布功能，但定制化程度不如 Logseq 且只能 Host 在它的服务器上面。
-	- 基于 Local first，因此非常适合跟简悦搭配一起做知识管理。
 # 平台
 	- 简悦（含同步助手）
 	- Logseq
@@ -155,6 +151,9 @@
 		- Logseq 因为是所见即所得的编辑方案，稳定性和切换编辑/预览效果没有 Typora 好。
 		- Logseq 并不是属于标准的 Markdown 结构（细节 [看这里](https://www.markdownguide.org/tools/logseq/)），所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq [导出功能](((61fdf55a-0377-4d51-8d83-d98ef4f785fa))) 改善此问题）
 		  id:: 61fdf259-3039-4977-8772-fd84e9207f76
+- # 为什么是 Logseq
+	- Logseq 支持 outliner 层级结构，类似 Workflowy / Roam Research 的效果，每层都可以延伸为一个「新的 Page」，非常适合「知识的生长」。
+	- Obsidian Publish 也提供发布功能，但定制化程度不如 Logseq 且只能 Host 在它的服务器上面。
 - # 导出为 Markdown
   id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
 	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown

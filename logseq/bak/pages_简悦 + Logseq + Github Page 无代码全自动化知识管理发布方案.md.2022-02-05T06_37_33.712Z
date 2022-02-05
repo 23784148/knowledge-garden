@@ -24,10 +24,9 @@
 		  id:: 61fdf55a-2cf2-4e79-b3f4-f5b14d86611e
 		  id:: 61fdf259-0e0d-4c14-9364-d567abae56a6
 		  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-# 为什么是 Logseq
+- # 为什么是 Logseq
 	- Logseq 支持 outliner 层级结构，类似 Workflowy / Roam Research 的效果，每层都可以延伸为一个「新的 Page」，非常适合「知识的生长」。
-	- 虽然 Obsidian Publish 也提供发布功能，但定制化程度不如 Logseq 且只能 Host 在它的服务器上面。
-	- 基于 Local first，因此非常适合跟简悦搭配一起做知识管理。
+	- Obsidian Publish 也提供发布功能，但定制化程度不如 Logseq 且只能 Host 在它的服务器上面。
 # 平台
 	- 简悦（含同步助手）
 	- Logseq
