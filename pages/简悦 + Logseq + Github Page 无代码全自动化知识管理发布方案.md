@@ -108,10 +108,11 @@
 	  #+END_TIP
 	- ## 标准方案
 		- #+BEGIN_TIP
-		  使用简悦的知识库功能，如何配置 [请看这里](https://kb.simpread.pro/#/page/建立知识库)，当设置完后，在标注的自动化上增加 **导出 Markdown** 的功能。
+		  此方案的前提是：使用简悦的知识库功能，如何配置 [请看这里](https://kb.simpread.pro/#/page/建立知识库)。
 		  #+END_TIP
-			- ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-pxe.png){:height 368, :width 652}
-			  id:: 61fd073f-383c-482b-a04b-12b9461463dd
+			- 在标注的自动化上增加 **导出 Markdown** 的功能。
+				- ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-pxe.png){:height 368, :width 652}
+				  id:: 61fd073f-383c-482b-a04b-12b9461463dd
 			- 使用简悦官方适配的 [Logseq Markdown 模板](https://github.com/Kenshin/simpread/discussions/2153#discussioncomment-2109959)，将模板代码粘贴到 **选项页 → 服务 → 定制化**。
 			  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-q7r.png)
 			- 设置 Hazle 监控 `output` 变化，当出现 `.md` 文件时，自动转移（或复制）到 `pages` 文件夹下面。
