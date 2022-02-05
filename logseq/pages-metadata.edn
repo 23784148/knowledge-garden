@@ -18,7 +18,7 @@
   :block/updated-at 1643949092472}
  {:block/name "contents",
   :block/created-at 1643955911809,
-  :block/updated-at 1643955911809}
+  :block/updated-at 1643958802620}
  {:block/name "doing",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
@@ -59,5 +59,8 @@
   :block/created-at 1643949092471,
   :block/updated-at 1643949092471}
  {:block/name "汉字测试",
-  :block/created-at 1643955922696, 
-  :block/updated-at 1643955922697}]
+  :block/created-at 1643955922696,
+  :block/updated-at 1643955922697}
+ {:block/name "简悦 + logseq + github page 无代码全自动化知识管理发布方案",
+  :block/created-at 1643958072827, 
+  :block/updated-at 1643972881843}]
