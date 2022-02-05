@@ -3,8 +3,8 @@
 - # 感谢
 	- [@tiensonqin](https://twitter.com/tiensonqin) 提供了这么棒的双链笔记 Logseq，得益于 [@pengx17](https://twitter.com/pengx17) 发布的 [Logseq Publish GitHub Action](https://pengx17.github.io/knowledge-garden/#/page/logseq publish github action)，可以非常方便的使用 Logseq 编写，使用 Git 发布它。
 - # 流程
-  	> 包含两种用法
-	- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， [此文档](https://kenshin.wang/knowledge-garden/) 就是此方式发布的。
+  	> 整个工作流包含两种方案
+	- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， 你看到的 [这篇教程](https://kenshin.wang/knowledge-garden/) 就是此方式发布的。
 	  id:: 61fdfac4-f85b-4d3a-a8eb-2f094ceb90ca
 		- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_10-49-53.mp4" height="350" 
 		  id:: 61fdf9cc-9e20-43c6-bce6-e11d453319f0
@@ -160,3 +160,5 @@
   id:: 61fdf55a-0377-4d51-8d83-d98ef4f785fa
 	- Logseq 自带了导出功能，可根据下图所示的方式导出为 Markdown，因为对 [部分 Markdown 语法的不支持](https://www.markdownguide.org/tools/logseq/)，尤其是 `Ordered Lists` 所以导入的 Markdown 还需要手动修改。
 	  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-gft.png)
+- # 更多例子
+	- {{embed ((61fe1b3a-8356-4f20-b8f1-f5f4ed21ee7b))}}
