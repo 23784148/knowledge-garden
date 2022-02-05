@@ -7,8 +7,10 @@
 - # 演示
 	- > [此文档](https://kenshin.wang/knowledge-garden/) 就是通过此方式建立的，下面是此演示视频。
 	- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_10-49-53.mp4" height="350" 
+	  id:: 61fdf259-655e-4778-87d7-fc3e7b2ebf1d
 	  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 	- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_11-24-17.mp4" height="350" 
+	  id:: 61fdf259-0e0d-4c14-9364-d567abae56a6
 	  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 # 平台
 	- 简悦（含同步助手）
@@ -119,7 +121,9 @@
 		  将 Hazel 监控 Chrome 下载文件夹，当遇到 `xxxx@annote.md` 文件时，自动转移到 `pages` 文件夹即可。
 		  #+END_TIP
 - # 至此
-	- 全部配置结束，当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面。
+	- > 全部配置结束，上述配置包含
+		- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面，[示例一](((61fdf259-655e-4778-87d7-fc3e7b2ebf1d))) 。
+		- 在简悦中的任意标注都会发布到你的 Github Page 上面，[示例二](((61fdf259-0e0d-4c14-9364-d567abae56a6))) 。
 - # 此方案的优缺点
 	- ## 优点
 		- 无代码化的全自动操作方案。
@@ -129,4 +133,7 @@
 		- Logseq 可支持粘贴本地图片（到 `assets` 文件夹）配合 Hazel 自动提交功能，相当于拥有了自己的「图床方案」。
 	- ## 缺点
 		- 如果不是 Mac 用户或无法使用 Hazel 的话，效果不会那么完美。
-		- Logseq 并不是属于标准的 Markdown 结构，所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq 导出功能改善此问题。
+		- Logseq 并不是属于标准的 Markdown 结构（细节 [看这里](https://www.markdownguide.org/tools/logseq/)），所以再加上双链的话，迁移有一定成本。（可适度使用 Logseq 导出功能改善此问题）
+		  id:: 61fdf259-3039-4977-8772-fd84e9207f76
+	- # 导出为 Markdown
+		- Logseq 自带了导出功能，
