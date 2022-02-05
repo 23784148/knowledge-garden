@@ -106,7 +106,7 @@
 		- 配置稍后读的自动化
 		  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-qgb.png)
 		- 配置标注的自动化，与标准方案时一致 ((61fd073f-383c-482b-a04b-12b9461463dd))
-		- ((61fd073f-a4ec-41e8-af00-e76a6bc62000))
+		- ((61fd073f-a4ec-41e8-af00-e76a6bc62000)) （与标准方案时一致）
 		  #+BEGIN_TIP
 		  引申：如果不使用同步助手的话也可以实现，即：
 		  将 Hazel 监控 Chrome 下载文件夹，当遇到 `xxxx@annote.md` 文件时，自动转移到 `pages` 文件夹即可。

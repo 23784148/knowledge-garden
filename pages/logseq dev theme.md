@@ -30,6 +30,3 @@ id:: 610173e1-964e-4fe6-8e57-ac177a2f1522
 - Embedded block
 	- {{embed ((60d34662-6747-46cd-a790-6dcb691b0256))}}
 - [[汉字测试]]
-- IMAGE
-	- ![image.png](../assets/image_1625060840651_0.png){:height 285, :width 467}
-- ![image.png](../assets/image_1628307330039_0.png)
