@@ -5,7 +5,9 @@
 - # 流程
 	- 在 Web 端使用简悦标注，并通过简悦的同步助手自动将以 Markdown 形式的标注导入到 Logseq page 文件夹，并使用 Hazel（或 crontab ）自动 Push 到 Github repo 后通过 Logseq Publish GitHub Action 自动发布的全流程无代码自动化发布方案。
 - # 演示
-	- [此文档](https://kenshin.wang/knowledge-garden/) 就是通过此方式建立的。
+	- > [此文档](https://kenshin.wang/knowledge-garden/) 就是通过此方式建立的，下面是此演示视频。
+	- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_10-49-53.mp4" height="350" 
+	  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 # 平台
 	- 简悦（含同步助手）
 	- Logseq
@@ -113,3 +115,13 @@
 		  #+END_TIP
 - # 至此
 	- 全部配置结束，当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面。
+- # 此方案的优缺点
+	- ## 优点
+		- 无代码化的全自动操作方案。
+		- 一次配置即可。
+		- 除 Github Page 外，其余均为 Local first 产品，此流程可保证最大稳定性。
+		- 发布的站点支持手机端访问
+		- Logseq 可支持粘贴本地图片（到 `assets` 文件夹）
+	- ## 缺点
+		- 如果不是 Mac 用户或无法使用 Hazel 的话，效果不会那么完美。
+		- Logseq 并不是属于标准的 Markdown 结构，所以再加上双链的话，迁移有一定成本。
