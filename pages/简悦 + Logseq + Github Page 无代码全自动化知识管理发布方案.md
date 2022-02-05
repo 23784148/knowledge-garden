@@ -111,3 +111,5 @@
 		  引申：如果不使用同步助手的话也可以实现，即：
 		  将 Hazel 监控 Chrome 下载文件夹，当遇到 `xxxx@annote.md` 文件时，自动转移到 `pages` 文件夹即可。
 		  #+END_TIP
+- # 至此
+	- 全部配置结束，当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面。
