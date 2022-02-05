@@ -99,6 +99,7 @@
 			- 设置 Hazle 监控 `output` 变化，当出现 `.md` 文件时，自动转移（或复制）到 `pages` 文件夹下面。
 			  id:: 61fd073f-a4ec-41e8-af00-e76a6bc62000
 			  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220204-qbl.png){:height 177, :width 621}
+			  
 			  > 也可仅迁移文件名含有 `xxxx@annote.md` 的文件。
 			  
 			  ![](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/SCR-20220205-g8s.png)
