@@ -5,22 +5,24 @@
 - # 流程
 	- 在 Web 端使用简悦标注，并通过简悦的同步助手自动将以 Markdown 形式的标注导入到 Logseq page 文件夹，并使用 Hazel（或 crontab ）自动 Push 到 Github repo 后通过 Logseq Publish GitHub Action 自动发布的全流程无代码自动化发布方案。
 - # 演示
-	- > 包含两种用法
-	- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， [此文档](https://kenshin.wang/knowledge-garden/) 就是此方式发布的。
-		- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_10-49-53.mp4" height="350" 
-		  id:: 61fdf9cc-9e20-43c6-bce6-e11d453319f0
-		  id:: 61fdf9cc-9e20-43c6-bce6-e11d453319f0
-		  id:: 61fdf933-8821-41e8-8525-74acb0f6138e
-		  id:: 61fdf55a-49d3-4471-b629-d804de8d6ff3
-		  id:: 61fdf259-655e-4778-87d7-fc3e7b2ebf1d
-		  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-	- 在简悦中的任意标注都会发布到你的 Github Page 上面
-		- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_11-24-17.mp4" height="350" 
-		  id:: 61fdf9cc-36e8-44b9-9a99-a4a40af098f4
-		  id:: 61fdf933-6df1-4e8b-8d71-3e9b7cec0653
-		  id:: 61fdf55a-2cf2-4e79-b3f4-f5b14d86611e
-		  id:: 61fdf259-0e0d-4c14-9364-d567abae56a6
-		  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+	- 包含两种用法
+		- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， [此文档](https://kenshin.wang/knowledge-garden/) 就是此方式发布的。
+		  id:: 61fdfac4-f85b-4d3a-a8eb-2f094ceb90ca
+			- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_10-49-53.mp4" height="350" 
+			  id:: 61fdf9cc-9e20-43c6-bce6-e11d453319f0
+			  id:: 61fdf9cc-9e20-43c6-bce6-e11d453319f0
+			  id:: 61fdf933-8821-41e8-8525-74acb0f6138e
+			  id:: 61fdf55a-49d3-4471-b629-d804de8d6ff3
+			  id:: 61fdf259-655e-4778-87d7-fc3e7b2ebf1d
+			  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+		- 在简悦中的任意标注都会发布到你的 Github Page 上面
+		  id:: 61fdfb06-622e-417f-9047-7bb17d9a25a9
+			- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_11-24-17.mp4" height="350" 
+			  id:: 61fdf9cc-36e8-44b9-9a99-a4a40af098f4
+			  id:: 61fdf933-6df1-4e8b-8d71-3e9b7cec0653
+			  id:: 61fdf55a-2cf2-4e79-b3f4-f5b14d86611e
+			  id:: 61fdf259-0e0d-4c14-9364-d567abae56a6
+			  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 # 平台
 	- 简悦（含同步助手）
 	- Logseq
@@ -132,9 +134,9 @@
 - # 至此
 	- id:: 61fdf55a-23b9-429d-996d-797c43827be9
 	  > 全部配置结束，上述配置包含
-		- 当你在 Logseq 页面的任何改动都会自动发布到你的 Github Page 上面， [示例一](((61fdf9cc-9e20-43c6-bce6-e11d453319f0))) 。
+		- ((61fdfac4-f85b-4d3a-a8eb-2f094ceb90ca))
 		  id:: 61fdf55a-6c68-46ba-884b-ee36441e3062
-		- 在简悦中的任意标注都会发布到你的 Github Page 上面， [示例二](((61fdf9cc-36e8-44b9-9a99-a4a40af098f4))) 。
+		- ((61fdfb06-622e-417f-9047-7bb17d9a25a9))
 		  id:: 61fdf55a-1fd9-4ee7-a05b-b36acb897b16
 - # 此方案的优缺点
 	- ## 优点
