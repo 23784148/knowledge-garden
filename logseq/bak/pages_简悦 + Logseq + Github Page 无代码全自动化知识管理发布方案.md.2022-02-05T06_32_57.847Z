@@ -17,7 +17,7 @@
 			  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 		- 在简悦中的任意标注都会发布到你的 Github Page 上面
 		  id:: 61fdfb06-622e-417f-9047-7bb17d9a25a9
-			#+BEGIN_TIP
+			- #+BEGIN_TIP
 			  在 Web 端使用简悦标注，并通过简悦的同步助手自动将以 Markdown 形式的标注导入到 Logseq page 文件夹，并使用 Hazel（或 crontab ）自动 Push 到 Github repo 后通过 Logseq Publish GitHub Action 自动发布的全流程无代码自动化发布方案。
 			  #+END_TIP
 			- <iframe src="https://cdn.jsdelivr.net/gh/23784148/upload-images@main/simpered/article/2022-02-05_11-24-17.mp4" height="350" 
