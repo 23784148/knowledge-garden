@@ -26,7 +26,7 @@ collapsed:: false
         collapsed:: true  
         - Note
             - #+BEGIN_QUOTE
-              测试一下。 
+              测试一下！ 
               #+END_QUOTE
         - Tags
             - 
