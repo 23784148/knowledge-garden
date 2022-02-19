@@ -26,7 +26,7 @@ collapsed:: false
         collapsed:: true  
         - Note
             - #+BEGIN_QUOTE
-              感谢合桃派的邀请 
+               
               #+END_QUOTE
         - Tags
             - 
