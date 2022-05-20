@@ -666,10 +666,10 @@ html[data-theme=light] {
 
 
 @font-face {
-  font-family: "Genshin";
+  font-family: "Noto Serif SC";
   font-style: normal;
-  font-weight: normal;
-  src: url(https://static.wikia.nocookie.net/gensin-impact/images/6/65/Genshin_Impact_Font.woff)
+  font-weight: 300;
+  src: url(https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap)
     format("truetype");
 }
 
