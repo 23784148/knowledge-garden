@@ -29,7 +29,7 @@
     .dark-theme,
     html[data-theme="light"],
     .white-theme {
-        --ls-font-family: "Noto Serif SC", sans-serif;
+        --ls-font-family: "Roboto", sans-serif;
         --ls-main-content-max-width: 860px;
         --ls-page-text-size: 1em;
         --ls-page-title-size: 2rem;

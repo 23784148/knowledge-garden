@@ -29,7 +29,7 @@
     .dark-theme,
     html[data-theme="light"],
     .white-theme {
-        --ls-font-family: "Noto Serif SC", sans-serif;
+        --ls-font-family: "Roboto", sans-serif;
         --ls-main-content-max-width: 860px;
         --ls-page-text-size: 1em;
         --ls-page-title-size: 2rem;
@@ -446,7 +446,7 @@
     .extensions__code > .CodeMirror {
         border-radius: 0.25rem;
         background: var(--ls-secondary-background-color);
-        font-family: "Noto Serif SC", monospace;
+        font-family: "Fira Code", monospace;
         line-height: 1.2;
     }
     .CodeMirror-hscrollbar {
