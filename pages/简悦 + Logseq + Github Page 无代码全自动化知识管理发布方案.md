@@ -1,4 +1,4 @@
-> 在简悦标注，自动生成符合 Logseq 的标注文件，然后发布到 Github Page 的无代码化全自动方案。
+
 
 - # 感谢
 	- [@tiensonqin](https://twitter.com/tiensonqin) 提供了这么棒的双链笔记 Logseq，得益于 [@pengx17](https://twitter.com/pengx17) 发布的 [Logseq Publish GitHub Action](https://pengx17.github.io/knowledge-garden/#/page/logseq publish github action)，可以非常方便的使用 Logseq 编写，使用 Git 发布它。
