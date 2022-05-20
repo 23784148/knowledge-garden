@@ -1,4 +1,3 @@
-
 /* Table of Contents
 {{{ ==>
 1. Global
@@ -28,11 +27,11 @@ progress {
   }
   
   progress::-webkit-progress-bar {
-    background: #1c7d7de6;
+    background: #f0f0f1;
   }
   
   progress::-webkit-progress-value {
-    background: var(--ct-success-color);
+    background: #1c7d7de6;
   }
 
 /* { == 1. Global ==> */
@@ -47,7 +46,7 @@ progress {
     .dark-theme,
     html[data-theme="light"],
     .white-theme {
-        --ls-font-family: "Noto Serif SC", sans-serif;
+        --ls-font-family: "Noto Serif SC";
         --ls-main-content-max-width: 860px;
         --ls-page-text-size: 1em;
         --ls-page-title-size: 2rem;
@@ -464,7 +463,7 @@ progress {
     .extensions__code > .CodeMirror {
         border-radius: 0.25rem;
         background: var(--ls-secondary-background-color);
-        font-family: "Noto Serif SC", monospace;
+        font-family: "Noto Serif SC";
         line-height: 1.2;
     }
     .CodeMirror-hscrollbar {
@@ -727,5 +726,5 @@ progress {
 }
 
 .genshin {
-  font-family: Genshin;
+  font-family: "Noto Serif SC";
 }

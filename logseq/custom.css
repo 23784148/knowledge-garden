@@ -1,4 +1,3 @@
-
 /* Table of Contents
 {{{ ==>
 1. Global
@@ -17,23 +16,7 @@
   4.2. Table of Contents
 <== }}} */
 
-/* Progress bar */
-progress {
-    vertical-align: middle;
-    border-radius: 8px;
-    height: 0.6em;
-    width: 100px;
-    border: 1px solid #000;
-    overflow: hidden;
-  }
-  
-  progress::-webkit-progress-bar {
-    background: #f0f0f1;
-  }
-  
-  progress::-webkit-progress-value {
-    background: #1c7d7de6;
-  }
+
 
 /* { == 1. Global ==> */
     @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap");
@@ -47,7 +30,7 @@ progress {
     .dark-theme,
     html[data-theme="light"],
     .white-theme {
-        --ls-font-family: "Noto Serif SC", sans-serif;
+        --ls-font-family: "Noto Serif SC";
         --ls-main-content-max-width: 860px;
         --ls-page-text-size: 1em;
         --ls-page-title-size: 2rem;
@@ -464,7 +447,7 @@ progress {
     .extensions__code > .CodeMirror {
         border-radius: 0.25rem;
         background: var(--ls-secondary-background-color);
-        font-family: "Noto Serif SC", monospace;
+        font-family: "Noto Serif SC";
         line-height: 1.2;
     }
     .CodeMirror-hscrollbar {
@@ -727,5 +710,24 @@ progress {
 }
 
 .genshin {
-  font-family: Genshin;
+  font-family: "Noto Serif SC";
 }
+
+
+/* Progress bar */
+progress {
+    vertical-align: middle;
+    border-radius: 8px;
+    height: 0.6em;
+    width: 100px;
+    border: 1px solid #000;
+    overflow: hidden;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #f0f0f1;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #1c7d7de6;
+  }

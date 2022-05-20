@@ -1,4 +1,3 @@
-
 /* Table of Contents
 {{{ ==>
 1. Global
@@ -28,7 +27,7 @@ progress {
   }
   
   progress::-webkit-progress-bar {
-    background: #ecf1f1e6;
+    background: #f0f0f1;
   }
   
   progress::-webkit-progress-value {
@@ -727,5 +726,5 @@ progress {
 }
 
 .genshin {
-  font-family: Genshin;
+  font-family: "Noto Serif SC";
 }
