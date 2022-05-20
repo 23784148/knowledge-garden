@@ -17,6 +17,24 @@
   4.2. Table of Contents
 <== }}} */
 
+/* Progress bar */
+progress {
+    vertical-align: middle;
+    border-radius: 8px;
+    height: 0.6em;
+    width: 100px;
+    border: 1px solid #000;
+    overflow: hidden;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #ecf1f1e6;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #1c7d7de6;
+  }
+
 /* { == 1. Global ==> */
     @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap");
     :root {
@@ -29,7 +47,7 @@
     .dark-theme,
     html[data-theme="light"],
     .white-theme {
-        --ls-font-family: "Roboto", sans-serif;
+        --ls-font-family: "Noto Serif SC", sans-serif;
         --ls-main-content-max-width: 860px;
         --ls-page-text-size: 1em;
         --ls-page-title-size: 2rem;

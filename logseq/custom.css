@@ -17,6 +17,24 @@
   4.2. Table of Contents
 <== }}} */
 
+/* Progress bar */
+progress {
+    vertical-align: middle;
+    border-radius: 8px;
+    height: 0.6em;
+    width: 100px;
+    border: 1px solid #000;
+    overflow: hidden;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #f0f0f1;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #1c7d7de6;
+  }
+
 /* { == 1. Global ==> */
     @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap");
     :root {
