@@ -151,10 +151,10 @@
 
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
- :feature/enable-journals? false
- :default-home {:page "演技教材·看书"}
+ :feature/enable-journals? true
+ :default-home {}
  :ui/show-brackets? true
- :journal/page-title-format "E, yyyy/MM/dd"
+ :journal/page-title-format "yyyy年MM月dd日"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}}
